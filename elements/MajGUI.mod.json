@@ -1,0 +1,106 @@
+{
+  "_fv": 13,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "Voici l'ouverture de la bêta",
+          "color": {
+            "value": -13421773,
+            "falpha": 0.0
+          },
+          "name": "Voici l'ouverture de la bêta",
+          "x": 141,
+          "y": 57
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "de Magnétite cela consiste à",
+          "color": {
+            "value": -13421773,
+            "falpha": 0.0
+          },
+          "name": "de Magnétite cela consiste à",
+          "x": 141,
+          "y": 75
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "trouver des bugs et à les",
+          "color": {
+            "value": -13421773,
+            "falpha": 0.0
+          },
+          "name": "trouver des bugs et à les",
+          "x": 150,
+          "y": 93
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "reporter sur le discord.",
+          "color": {
+            "value": -13421773,
+            "falpha": 0.0
+          },
+          "name": "reporter sur le discord.",
+          "x": 150,
+          "y": 111
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "BON JEU A VOUS",
+          "color": {
+            "value": -13421773,
+            "falpha": 0.0
+          },
+          "name": "BON JEU A VOUS",
+          "x": 177,
+          "y": 129
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "PS: au spawn il y a un PNJ",
+          "color": {
+            "value": -13421773,
+            "falpha": 0.0
+          },
+          "name": "PS: au spawn il y a un PNJ",
+          "x": 132,
+          "y": 165
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "pour avoir tous les minerais",
+          "color": {
+            "value": -13421773,
+            "falpha": 0.0
+          },
+          "name": "pour avoir tous les minerais",
+          "x": 132,
+          "y": 183
+        }
+      }
+    ]
+  }
+}
