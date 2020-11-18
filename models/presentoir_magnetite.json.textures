@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "stone_slab_top",
+        "1": "magnetite_ingot",
+        "missing": "magnetite_block"
+      },
+      "name": "default"
+    }
+  }
+}
